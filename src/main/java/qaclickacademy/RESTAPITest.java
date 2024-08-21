@@ -17,5 +17,10 @@
 			int s=a+b;
 			System.out.println(s);
 	}
+		public void Sub(int a,int b)
+		{
+			int s=a-b;
+			System.out.println(s);
+	}
 
 }
