@@ -12,7 +12,10 @@
 			System.out.println("Post JIRa 4");
 
 		}
-
+		public void Add(int a,int b)
+		{
+			int s=a+b;
+			System.out.println(s);
 	}
 
 }
